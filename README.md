@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Socials
+
+[![Twitter](icons/twitter.svg)](https://twitter.com/brototyp)
+[![Mastodon](icons/mastodon.svg)](https://mastodon.social/@brototyp)
+[![Linkedin](icons/linkedin.svg)](https://www.linkedin.com/in/cornelius-horstmann-ab97949b/)
+
+
 <!--
 **brototyp/brototyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
