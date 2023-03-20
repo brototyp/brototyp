@@ -2,9 +2,9 @@
 
 ### Socials
 
-[![Twitter](icons/twitter.svg)](https://twitter.com/brototyp)
-[![Mastodon](icons/mastodon.svg)](https://mastodon.social/@brototyp)
-[![Linkedin](icons/linkedin.svg)](https://www.linkedin.com/in/cornelius-horstmann-ab97949b/)
+[<img src="icons/twitter.svg" alt="Twitter" width="20" height="20">](https://twitter.com/brototyp)
+[<img src="icons/mastodon.svg" alt="Mastodon" width="20" height="20">](https://mastodon.social/@brototyp)
+[<img src="icons/linkedin.svg" alt="Linkedin" width="20" height="20">](https://www.linkedin.com/in/cornelius-horstmann-ab97949b/)
 
 
 <!--
