@@ -2,9 +2,9 @@
 
 ### Socials
 
-[<img src="icons/twitter.svg" alt="Twitter" width="20" height="20">](https://twitter.com/brototyp)
-[<img src="icons/mastodon.svg" alt="Mastodon" width="20" height="20">](https://mastodon.social/@brototyp)
-[<img src="icons/linkedin.svg" alt="Linkedin" width="20" height="20">](https://www.linkedin.com/in/cornelius-horstmann-ab97949b/)
+<a href="https://twitter.com/brototyp" target="_blank"><img src="icons/twitter.svg" alt="Twitter" width="20" height="20"></a>
+<a href="https://mastodon.social/@brototyp" target="_blank"><img src="icons/mastodon.svg" alt="Mastodon" width="20" height="20"></a>
+<a href="https://www.linkedin.com/in/cornelius-horstmann-ab97949b/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="20" height="20"></a>
 
 
 <!--
